@@ -3,7 +3,6 @@
 Welcome to the repository dedicated to the modeling and analysis of physiological systems! This collection features several projects that utilize MATLAB, Simulink, and CricAdapt to explore various aspects of human physiology. Each project offers unique insights into the complex functions of the human body. Below, you'll find details on a few key projects along with instructions on how to use them.
 
 ![MATLAB-logo](images/matlabLogo.jpeg)
-![CricAdapt-logo](images/carcadapt.png)
 
 ## 🔑 Key Projects
 
